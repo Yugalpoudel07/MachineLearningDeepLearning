@@ -3,6 +3,8 @@
 # Resources and Contents
 | Resource | Links of resource | Status of Completion |
 |-----------------|-----------------|-----------------|
-| Machine Learning Specialization   | [Course Link]([URL](https://www.coursera.org/specializations/machine-learning-introduction?)) | &#x1F3CA;  |
+| Machine Learning Specialization   | [Course Link](https://www.coursera.org/specializations/machine-learning-introduction?) | &#x1F3CA;  |
 |  Machine Learning from scratch   | [Introduction](https://dafriedman97.github.io/mlbook/content/introduction.html#introduction)    | &#x1F3CA;    |
 | Hands on Machine Learning    | Book    | &#x1F3CA;    |
+
+# Day 1
