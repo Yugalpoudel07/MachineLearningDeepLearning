@@ -3,8 +3,7 @@
 # Resources and Contents
 | Resource | Links of resource | Status of Completion |
 |-----------------|-----------------|-----------------|
-| Machine Learning Specialization   | [Link Text]([URL](https://www.coursera.org/specializations/machine-learning-introduction?))
-    | &#x1F3CA;    |
+| Machine Learning Specialization   | [Link Text]([URL](https://www.coursera.org/specializations/machine-learning-introduction?)) | &#x1F3CA;  |
 | Row 2 Data 1    | Row 2 Data 2    | Row 2 Data 3    |
 | Row 3 Data 1    | Row 3 Data 2    | Row 3 Data 3    |
 | Row 4 Data 1    | Row 4 Data 2    | Row 4 Data 3    |
