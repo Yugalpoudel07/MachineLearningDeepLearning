@@ -19,5 +19,5 @@
 ![1707665594161](https://github.com/Yugalpoudel07/MachineLearningDeepLearning/assets/134123589/00b92f62-8986-4856-a357-e8e4772f158f)
 ![1707665594859](https://github.com/Yugalpoudel07/MachineLearningDeepLearning/assets/134123589/daa02723-d05c-421e-b69f-7bac2aed88e1)
 
-
+# Day 3
 
