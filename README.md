@@ -3,10 +3,6 @@
 # Resources and Contents
 | Resource | Links of resource | Status of Completion |
 |-----------------|-----------------|-----------------|
-| Machine Learning Specialization   | [Link Text]([URL](https://www.coursera.org/specializations/machine-learning-introduction?)) | &#x1F3CA;  |
-| Row 2 Data 1    | Row 2 Data 2    | Row 2 Data 3    |
-| Row 3 Data 1    | Row 3 Data 2    | Row 3 Data 3    |
-| Row 4 Data 1    | Row 4 Data 2    | Row 4 Data 3    |
-| Row 5 Data 1    | Row 5 Data 2    | Row 5 Data 3    |
-| Row 6 Data 1    | Row 6 Data 2    | Row 6 Data 3    |
-| Row 7 Data 1    | Row 7 Data 2    | Row 7 Data 3    |
+| Machine Learning Specialization   | [Course Link]([URL](https://www.coursera.org/specializations/machine-learning-introduction?)) | &#x1F3CA;  |
+|  Machine Learning from scratch   | [Introduction](https://dafriedman97.github.io/mlbook/content/introduction.html#introduction)    | &#x1F3CA;    |
+| Hands on Machine Learning    | Book    | &#x1F3CA;    |
