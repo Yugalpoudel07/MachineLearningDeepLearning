@@ -3,6 +3,7 @@
 # Resources and Contents
 | Resource | Links of resource | Status of Completion |
 |-----------------|-----------------|-----------------|
+| Codebasics ML Playlist    | [Playlist Link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)    | &#x1F3CA;    |
 | Machine Learning Specialization   | [Course Link](https://www.coursera.org/specializations/machine-learning-introduction?) | &#x1F3CA;  |
 |  Machine Learning from scratch   | [Introduction](https://dafriedman97.github.io/mlbook/content/introduction.html#introduction)    | &#x1F3CA;    |
 | Hands on Machine Learning    | Book    | &#x1F3CA;    |
