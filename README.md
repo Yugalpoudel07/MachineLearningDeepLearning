@@ -5,8 +5,10 @@
 |-----------------|-----------------|-----------------|
 | Codebasics ML Playlist    | [Playlist Link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)    | &#x1F3CA;    |
 | Machine Learning Specialization   | [Course Link](https://www.coursera.org/specializations/machine-learning-introduction?) | &#x1F3CA;  |
-|  Machine Learning from scratch   | [Introduction](https://dafriedman97.github.io/mlbook/content/introduction.html#introduction)    | &#x1F3CA;    |
-| Hands on Machine Learning    | Book    | &#x1F3CA;    |
+| A comprehensive guide to Machine Learning | [Book](https://drive.google.com/file/d/1HOovSScQI1bhB4uI6vhCEEwe5ser6Hix/view?usp=drive_link) |  &#x1F3CA;  |
+|  Machine Learning from scratch   | [Book](https://dafriedman97.github.io/mlbook/content/introduction.html#introduction)    | &#x1F3CA;    |
+| Introduction to Machine Learning    | [Book](https://drive.google.com/file/d/1WqnuwgL7PncAKNFoyAkPlflLwD4wLUwt/view?usp=drive_link)    | &#x1F3CA;    |
+| Hands on Machine Learning    | [Book](https://drive.google.com/file/d/1aSHiQTZ8MIxZ8r2flSF3pqAh9stKGN3K/view?usp=drive_link)    | &#x1F3CA;    |
 
 # Day 1
 ![Screenshot (753)](https://github.com/Yugalpoudel07/MachineLearningDeepLearning/assets/134123589/cc72bbc9-2d67-4bf0-b429-d08722410deb)
