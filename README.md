@@ -10,6 +10,11 @@
 | Introduction to Machine Learning    | [Book](https://drive.google.com/file/d/1WqnuwgL7PncAKNFoyAkPlflLwD4wLUwt/view?usp=drive_link)    | &#x1F3CA;    |
 | Hands on Machine Learning    | [Book](https://drive.google.com/file/d/1aSHiQTZ8MIxZ8r2flSF3pqAh9stKGN3K/view?usp=drive_link)    | &#x1F3CA;    |
 
+# My Projects
+
+1. [Bengaluru House Price Predictions](https://github.com/Yugalpoudel07/MachineLearningDeepLearning/tree/main/Guided_Projects/Bengaluru%20House%20Predictions)
+
+
 # Day 1
 ![Screenshot (753)](https://github.com/Yugalpoudel07/MachineLearningDeepLearning/assets/134123589/cc72bbc9-2d67-4bf0-b429-d08722410deb)
 
