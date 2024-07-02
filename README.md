@@ -7,6 +7,7 @@
 | Machine Learning Specialization   | [Course Link](https://www.coursera.org/specializations/machine-learning-introduction?) | &#x1F3CA;  |
 |  Machine Learning from scratch   | [Book](https://dafriedman97.github.io/mlbook/content/introduction.html#introduction)    | &#x1F3CA;    |
 | Hands on Machine Learning    | [Book](https://drive.google.com/file/d/1aSHiQTZ8MIxZ8r2flSF3pqAh9stKGN3K/view?usp=drive_link)    | &#x1F3CA;    |
+| 100 days of Machine Learning    | [Playlist Link](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=Gabr4N38_kzHGOgT)    | &#x1F3CA;    |
 
 # My Projects
 
