@@ -12,7 +12,7 @@
 # My Projects
 
 1. [Bengaluru House Price Predictions](https://github.com/Yugalpoudel07/MachineLearningDeepLearning/tree/main/Guided_Projects/Bengaluru%20House%20Predictions)
-
+2. [Car Price Prediction](https://github.com/Yugalpoudel07/MachineLearningDeepLearning/blob/main/Guided_Projects/Car%20Price%20Prediction/Quickr%20Predictor.ipynb)
 
 # Day 1
 ![Screenshot (753)](https://github.com/Yugalpoudel07/MachineLearningDeepLearning/assets/134123589/cc72bbc9-2d67-4bf0-b429-d08722410deb)
